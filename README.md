@@ -15,7 +15,7 @@ FitLog is a dark, responsive, and performance-driven gym companion built with **
 
 ---
 
-## ⚡ Key Features (Minimum 5 Covered)
+## ⚡ Key Features
 
 1. **Interactive Workout Library with Sorting & Search**:
    - Fetches workouts directly from the FitLog Cloudflare Workers API.
